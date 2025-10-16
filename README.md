@@ -455,7 +455,3 @@ Frase introdutória: Para identificar textos instrucionais, procure por conectiv
 • Depois
 • Assim que
 ```
-
-## 📄 Licença
-
-Este projeto é de código aberto para fins educacionais.
